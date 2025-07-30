@@ -1,2 +1,2 @@
-Hello
-My name is Thomas
+Bonjour
+Mon nom est Thomas
